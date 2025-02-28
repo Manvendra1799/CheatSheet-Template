@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    margin:0;
+    padding:0;
+}
+
+/* Adding style to nav bar */
+nav{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background-color:#000000;
+  color: white;
+
+}
+
+.content{
+    font-family: "Potta One", cursive;
+}
+
+/* for centering:use background color then remove it after ward */
+.container{
+    width:50vw;
+    margin:auto;/*center*/
+    font-family: "Roboto", sans-serif;;
+    font-weight:bold;
+    padding:34px;
+    
+}
+
+.logo{
+ padding:0 13px;
+}
+
+.logo img{
+    width: 34px;
+}
+
+.toolbar-item button{
+    cursor: pointer;
+    color: white;
+    border: 3px solid white;
+    border-radius: 10px;
+    padding: 5px 11px;
+}

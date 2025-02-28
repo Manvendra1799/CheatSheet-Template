@@ -1,0 +1,26 @@
+what do I learn?
+
+1. !important keyword in css
+
+2. How to use prism.js?
+   pre,code
+   class = language-html
+
+
+3. padding : 24px(length increase)  50px(width increase)
+
+4. How to make html code be displayed in my webpage correct?
+  < -> &lt;
+  > -> &gt;
+  
+
+  shortcut: ctrl + f
+
+5. How to create a navbar?
+
+6. How to download the prism.js prism.js to include in your code?
+
+  shift+tab
+
+
+7. I also have included errors to make sure how to place your code.
