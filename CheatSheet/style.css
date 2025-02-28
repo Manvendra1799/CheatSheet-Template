@@ -9,8 +9,10 @@ nav{
   display:flex;
   justify-content: center;
   align-items: center;
-  background-color:#000000;
+  background-color:#272822;
   color: white;
+  font-size: 1.5rem;
+  height: 72px;
 
 }
 
@@ -37,9 +39,9 @@ nav{
 }
 
 .toolbar-item button{
-    cursor: pointer;
-    color: white;
-    border: 3px solid white;
-    border-radius: 10px;
-    padding: 5px 11px;
+    cursor: pointer  !important;
+    color: white !important;
+    border: 3px solid white !important;
+    border-radius: 10px !important;
+    padding: 5px 11px !important;
 }
